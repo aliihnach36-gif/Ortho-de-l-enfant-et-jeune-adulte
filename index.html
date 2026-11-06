@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Arcade Orthodontie</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+  <nav id="nav" aria-label="Navigation principale">
+    <a class="brand" href="#today" data-go="today" aria-label="Arcade, accueil">
+      <svg viewBox="0 0 48 30" width="42" height="26" aria-hidden="true"><path d="M3 26C5 9 15 4 24 4s19 5 21 22" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/><g fill="currentColor"><rect x="7" y="15" width="5" height="5" rx="1"/><rect x="14" y="8" width="5" height="5" rx="1"/><rect x="22" y="5" width="5" height="5" rx="1"/><rect x="30" y="8" width="5" height="5" rx="1"/><rect x="37" y="15" width="5" height="5" rx="1"/></g></svg>
+      <span>Arcade</span>
+    </a>
+    <div id="navlinks"></div>
+    <div id="sync" title="Où ta progression est enregistrée">Dans ce navigateur</div>
+  </nav>
+  <main id="view" tabindex="-1"></main>
+</div>
+<aside id="srcpanel" hidden aria-label="Source du livre">
+  <header>
+    <strong id="srctitle">Source</strong>
+    <div class="row">
+      <button class="btn sm" id="srcprev" aria-label="Page précédente">‹</button>
+      <input id="srcinput" type="number" min="1" max="291" aria-label="Page imprimée">
+      <button class="btn sm" id="srcnext" aria-label="Page suivante">›</button>
+      <button class="btn sm" id="srcclose">Fermer</button>
+    </div>
+  </header>
+  <div id="srcbody"></div>
+</aside>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

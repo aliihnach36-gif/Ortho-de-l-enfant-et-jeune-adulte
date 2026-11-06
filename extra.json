@@ -1,0 +1,2831 @@
+{
+"cases": [
+{
+"id": "k1",
+"t": "Léa, 10 ans, « des dents en avant »",
+"lv": 2,
+"tags": [
+"classe II",
+"ventilation"
+],
+"ch": [
+1,
+2,
+3,
+4
+],
+"intro": "Léa consulte pour un surplomb. Sa mère signale une rhinite allergique et des ronflements.",
+"steps": [
+{
+"s": "À l'examen : étage inférieur long, plis effacés, crispation du mentonnier, profil convexe, distance cervicomentonnière courte. En bouche : classe II molaire, surplomb de 7 mm, palais étroit, gingivite incisivocanine.",
+"q": "Quelle hypothèse résume le mieux ce tableau ?",
+"o": [
+[
+"Simple proalvéolie sans autre signe",
+0,
+"Elle n'explique ni l'excès vertical ni les signes ventilatoires."
+],
+[
+"Classe II squelettique probable, excès vertical antérieur et ventilation buccale suspectée",
+1,
+"Tu croises les trois sens de l'espace et la fonction."
+],
+[
+"Classe III avec proglissement",
+0,
+"Le profil convexe oriente vers la classe II."
+]
+],
+"p": "5-6, 16-17"
+},
+{
+"s": "Le test du miroir est asymétrique et l'épreuve de Rosenthal échoue.",
+"q": "Que fais-tu en premier ?",
+"o": [
+[
+"Activateur immédiatement",
+0,
+"La ventilation conditionne la posture linguale : elle passe d'abord."
+],
+[
+"Bilan ORL, et allergologique si nécessaire",
+1,
+"C'est la conduite indiquée, avant de construire la suite."
+],
+[
+"Rétraction incisive multi-attaches",
+0,
+"Le diagnostic n'est pas achevé et la cause n'est pas traitée."
+]
+],
+"p": "17, 91"
+},
+{
+"s": "La téléradiographie indique SNA 81°, SNB 75°, ANB 6°, FMA 33°.",
+"q": "Comment lis-tu ces valeurs ?",
+"o": [
+[
+"Maxillaire proche de la norme, mandibule en retrait, divergence augmentée",
+1,
+"SNA est à la norme de 82° ± 2°, SNB sous 80° ± 2°, FMA au-dessus de 25° ± 3°."
+],
+[
+"Prognathie maxillaire pure, hypodivergence",
+0,
+"SNA n'est pas augmenté et FMA n'est pas faible."
+],
+[
+"Valeurs normales",
+0,
+"ANB et FMA sont hors norme."
+]
+],
+"p": "27-28"
+},
+{
+"s": "L'orthopédie est discutée. FMA reste élevé et la rotation semble plutôt postérieure.",
+"q": "Quel raisonnement suit le livre ?",
+"o": [
+[
+"Elle est idéale, car Léa a 10 ans",
+0,
+"L'âge ne suffit pas : l'hyperdivergence est une contre-indication principale."
+],
+[
+"Elle se discute avec prudence, car l'hyperdivergence est une contre-indication principale et la direction de croissance compte",
+1,
+"L'orthopédie exige croissance suffisante et direction favorable."
+],
+[
+"FEO cervicale pour égresser les molaires",
+0,
+"Ce serait contraire au contrôle vertical recherché."
+]
+],
+"p": "61, 100, 141"
+}
+],
+"end": "Retiens la séquence : fonction d'abord, puis direction de croissance, puis choix de l'appareil."
+},
+{
+"id": "k2",
+"t": "Sami, 7 ans, occlusion inversée à gauche",
+"lv": 2,
+"tags": [
+"transversal",
+"latérodéviation"
+],
+"ch": [
+1,
+2,
+3
+],
+"intro": "Les parents ont remarqué que le menton de Sami dévie quand il ferme la bouche.",
+"steps": [
+{
+"s": "Au repos, le menton est centré. En occlusion, il dévie à gauche, avec une occlusion inversée unilatérale gauche.",
+"q": "Quelle interprétation privilégier ?",
+"o": [
+[
+"Latérognathie squelettique",
+0,
+"Une asymétrie structurelle persisterait au repos."
+],
+[
+"Latérodéviation fonctionnelle à partir d'un bout à bout instable",
+1,
+"La comparaison repos/occlusion sert précisément à cela."
+],
+[
+"Scoliose",
+0,
+"Rien n'oriente d'abord vers cette cause."
+]
+],
+"p": "4, 10"
+},
+{
+"s": "Les arcades maxillaire et mandibulaire ne concordent pas en largeur.",
+"q": "Pourquoi ne pas attendre ?",
+"o": [
+[
+"Parce qu'une latérodéviation non traitée peut évoluer en latérognathie",
+1,
+"Les anomalies cinétiques peuvent se fixer en anomalies morphologiques."
+],
+[
+"Parce que la dent risque une pulpite",
+0,
+"Ce n'est pas le raisonnement indiqué."
+],
+[
+"Parce qu'elle va causer une classe II certaine",
+0,
+"La conséquence citée est la latérognathie."
+]
+],
+"p": "60"
+},
+{
+"s": "Le palais est étroit, et Sami a encore une large croissance résiduelle.",
+"q": "Que privilégier ?",
+"o": [
+[
+"Expansion maxillaire, avec réponse suturale plus facile chez le jeune",
+1,
+"Plus le sujet est jeune, plus la réponse suturale est possible."
+],
+[
+"Expansion orthopédique de la mandibule",
+0,
+"La suture interincisive est fermée à 1 an."
+],
+[
+"Disjonction chirurgicale immédiate",
+0,
+"Réservée à une suture ossifiée."
+]
+],
+"p": "60-61, 217"
+},
+{
+"s": "En fin de correction, l'occlusion s'est stabilisée avec un torque favorable.",
+"q": "Quelle contention peut être discutée ?",
+"o": [
+[
+"Contention naturelle possible si l'occlusion est stable et le torque favorable",
+1,
+"Le livre cite l'occlusion latérale inversée avec torque favorable."
+],
+[
+"Fil collé à vie obligatoire",
+0,
+"Rien ne l'impose dans ce cas."
+],
+[
+"Élastiques de classe III à vie",
+0,
+"Sans rapport."
+]
+],
+"p": "235"
+}
+],
+"end": "Toujours distinguer ce qui change entre repos et occlusion : cette comparaison simple change tout le plan."
+},
+{
+"id": "k3",
+"t": "Yanis, 6 ans, classe III avec parent atteint",
+"lv": 3,
+"tags": [
+"classe III",
+"orthopédie",
+"preuve"
+],
+"ch": [
+2,
+4,
+8
+],
+"intro": "Son père a été opéré d'une classe III. Yanis présente une occlusion inversée antérieure.",
+"steps": [
+{
+"s": "Maxillaire en retrait, léger proglissement corrigeable, pas de béance.",
+"q": "Quelle attitude s'impose comme première hypothèse ?",
+"o": [
+[
+"Masque de Delaire, avec expansion si nécessaire",
+1,
+"C'est, pour la plupart des auteurs cités, le traitement interceptif de choix."
+],
+[
+"Élastiques de classe II",
+0,
+"Ils aggraveraient le problème et ne répondent pas à la cause."
+],
+[
+"Attendre 18 ans sans rien faire ni informer",
+0,
+"Une action précoce et une information sont possibles."
+]
+],
+"p": "60, 109"
+},
+{
+"s": "Les parents demandent ce que prouve la littérature.",
+"q": "Quelle réponse est la plus honnête ?",
+"o": [
+[
+"Une revue citée rapporte 75 % de succès à 5 ans, avec disjonction et masque, sans garantie",
+1,
+"C'est le chiffre donné, à nuancer selon le patient."
+],
+[
+"Le succès est garanti à 100 %",
+0,
+"Aucune garantie : obligation de moyens, et hérédité forte."
+],
+[
+"Aucune étude n'existe",
+0,
+"Des revues existent."
+]
+],
+"p": "245-246, 255"
+},
+{
+"s": "L'hérédité est forte.",
+"q": "Quelle information donner dès le début ?",
+"o": [
+[
+"Une récidive ou une chirurgie ultérieure restent possibles, car l'étiologie héréditaire assombrit le pronostic",
+1,
+"Une dépistage précoce permet de préparer patient et parents."
+],
+[
+"Aucune information n'est utile avant 16 ans",
+0,
+"L'information doit être précoce."
+],
+[
+"La croissance mandibulaire tardive n'existe pas",
+0,
+"C'est au contraire un risque."
+]
+],
+"p": "42, 100, 208"
+},
+{
+"s": "En fin d'adolescence, le décalage réapparaît et les compensations deviennent excessives.",
+"q": "Quand opérer, si la chirurgie est décidée ?",
+"o": [
+[
+"En fin de croissance, vers 18 ans chez un garçon",
+1,
+"Pour éviter les récidives liées à une croissance mandibulaire tardive."
+],
+[
+"À 13 ans",
+0,
+"Trop tôt, en dehors d'indications particulières."
+],
+[
+"Immédiatement sans préparation",
+0,
+"La décompensation fait partie du protocole, sauf concept de chirurgie en premier."
+]
+],
+"p": "211, 214"
+}
+],
+"end": "Hérédité, dépistage et information transforment une classe III précoce en parcours suivi, pas en promesse."
+},
+{
+"id": "k4",
+"t": "Nora, 13 ans, hypodivergente et profil plat",
+"lv": 3,
+"tags": [
+"extractions",
+"esthétique",
+"ancrage"
+],
+"ch": [
+1,
+2,
+5,
+6
+],
+"intro": "Nora présente une classe II division 1 hypodivergente avec encombrement modéré. Le profil est déjà plat.",
+"steps": [
+{
+"s": "Les lèvres sont soutenues par le surplomb. Le plan propose une grande rétraction maxillaire.",
+"q": "Quel risque vois-tu d'abord ?",
+"o": [
+[
+"Creuser le profil nasomentonnier",
+1,
+"Le livre illustre ce risque par la classe II division 1 hypodivergente."
+],
+[
+"Augmenter la divergence",
+0,
+"Ce n'est pas le risque principal ici."
+],
+[
+"Créer une béance latérale",
+0,
+"Sans rapport direct."
+]
+],
+"p": "59, 208"
+},
+{
+"s": "Une extraction reste discutée pour l'encombrement.",
+"q": "Si elle est indispensable, que faire ?",
+"o": [
+[
+"Extraire les quatre premières prémolaires avec ancrage maximal",
+0,
+"Cela favorise justement une rétraction excessive."
+],
+[
+"Reculer le site d'extraction et renforcer la mésialisation",
+1,
+"C'est la protection indiquée dans les cas à risque."
+],
+[
+"Interdire tout contrôle d'ancrage",
+0,
+"Le problème vient justement de l'excès d'ancrage naturel."
+]
+],
+"p": "157"
+},
+{
+"s": "Nora a une musculature élévatrice puissante.",
+"q": "Quel effet sur l'ancrage ?",
+"o": [
+[
+"Ancrage naturel important, donc risque d'excès de rétraction",
+1,
+"Les hypodivergents ont un ancrage naturel important."
+],
+[
+"Ancrage nul",
+0,
+"C'est l'inverse."
+],
+[
+"Aucun effet",
+0,
+"La typologie compte."
+]
+],
+"p": "67, 157"
+},
+{
+"s": "Le décalage est finalement jugé trop préjudiciable pour un compromis esthétique.",
+"q": "Quelle voie reste logique à discuter ?",
+"o": [
+[
+"Une chirurgie d'avancement mandibulaire avec préparation adaptée",
+1,
+"Le cas clinique 2 du chapitre 6 suit cette logique."
+],
+[
+"Force extra-orale cervicale",
+0,
+"Elle ne répond pas au problème esthétique."
+],
+[
+"Une expansion mandibulaire orthopédique",
+0,
+"Impossible à la mandibule."
+]
+],
+"p": "208, 210"
+}
+],
+"end": "Une bonne occlusion obtenue en abîmant un visage reste un mauvais résultat."
+},
+{
+"id": "k5",
+"t": "Adam, 14 ans, canine en recul et ancrage perdu",
+"lv": 3,
+"tags": [
+"biomécanique",
+"ancrage"
+],
+"ch": [
+2,
+5
+],
+"intro": "Adam est en traitement avec extractions. Le recul canin prend du retard et les molaires avancent.",
+"steps": [
+{
+"s": "Le recul demandé égale l'espace disponible. Adam est hyperdivergent.",
+"q": "Comment qualifier la situation ?",
+"o": [
+[
+"Ancrage critique, à renforcer",
+1,
+"Quand le recul égale l'espace disponible, les secteurs postérieurs ne doivent pas se mésialer."
+],
+[
+"Ancrage inutile",
+0,
+"Au contraire."
+],
+[
+"Perte d'ancrage souhaitable",
+0,
+"Elle compromettrait les objectifs."
+]
+],
+"p": "67, 163"
+},
+{
+"s": "Le fil de glissement est léger et le mouvement s'arrête régulièrement.",
+"q": "Quel phénomène reconnais-tu ?",
+"o": [
+[
+"Arc-boutement et friction",
+1,
+"Le déplacement se fait par versions et redressements successifs."
+],
+[
+"Superélasticité",
+0,
+"Elle n'explique pas ce blocage."
+],
+[
+"Hyalinisation exclusive",
+0,
+"Elle n'est pas la seule explication ici."
+]
+],
+"p": "164"
+},
+{
+"s": "Il faut changer de fil pour guider le glissement.",
+"q": "Lequel suit la logique du livre ?",
+"o": [
+[
+"Acier monobrin, légèrement sous-dimensionné",
+1,
+"Friction faible, rapport charge/flexion élevé et section suffisante."
+],
+[
+"Multibrin tressé",
+0,
+"Trop flexible et friction élevée."
+],
+[
+"TMA classique pleine taille",
+0,
+"Friction élevée et remplissage excessif pour glisser."
+]
+],
+"p": "134"
+},
+{
+"s": "La force appliquée est de 300 g.",
+"q": "Que corriger ?",
+"o": [
+[
+"Réduire vers une force initiale de l'ordre de 100 g",
+1,
+"C'est la force optimale initiale indiquée en glissement. Augmenter le risque de pression excessive ne fait pas gagner de temps."
+],
+[
+"Passer à 600 g",
+0,
+"Pression excessive et perte d'ancrage."
+],
+[
+"Supprimer toute force",
+0,
+"Le déplacement cesserait."
+]
+],
+"p": "118-119, 164"
+},
+{
+"s": "Pour stabiliser l'ancrage, plusieurs renforts sont possibles.",
+"q": "Lequel a le moins d'effet vertical défavorable ici ?",
+"o": [
+[
+"FEO cervicale",
+0,
+"Elle égresse les molaires et est à proscrire chez l'hyperdivergent."
+],
+[
+"Élastiques de classe II",
+0,
+"Ils égressent aussi et sont à éviter dans ce profil."
+],
+[
+"Mini-vis ou FEO haute",
+1,
+"Ils renforcent l'ancrage sans ajouter de composante égressive défavorable."
+]
+],
+"p": "141, 143, 147"
+}
+],
+"end": "Chaque réglage mécanique doit se relire à travers la typologie du patient."
+},
+{
+"id": "k6",
+"t": "Inès, 15 ans, claquement sous élastiques",
+"lv": 2,
+"tags": [
+"ATM"
+],
+"ch": [
+2,
+5,
+8
+],
+"intro": "En cours de traitement, Inès signale un bruit à l'ouverture depuis qu'elle porte ses élastiques.",
+"steps": [
+{
+"s": "Claquement réciproque à gauche, déviation en baïonnette vers la gauche, pas de douleur.",
+"q": "Quel diagnostic est le plus cohérent ?",
+"o": [
+[
+"Grade 2 : déplacement discal réductible",
+1,
+"Claquement, déviation du côté pathologique et réduction en ouverture."
+],
+[
+"Grade 4",
+0,
+"On attendrait des crépitations."
+],
+[
+"Grade 3 aigu",
+0,
+"Il donnerait une limitation douloureuse sans bruit."
+]
+],
+"p": "72"
+},
+{
+"s": "Elle veut savoir que faire.",
+"q": "Que préconise le livre en cours de traitement ?",
+"o": [
+[
+"Déposer les élastiques, attendre quelques semaines, puis finir soigneusement",
+1,
+"C'est la conduite indiquée."
+],
+[
+"Augmenter la force des élastiques",
+0,
+"Cela solliciterait davantage l'articulation."
+],
+[
+"Chirurgie immédiate",
+0,
+"Rien ne le justifie."
+]
+],
+"p": "74"
+},
+{
+"s": "Elle demande si l'orthodontie a causé ou guérira ce problème.",
+"q": "Quelle réponse est la plus fidèle ?",
+"o": [
+[
+"Elle ne traite pas seule le problème, et les études retenues ne montrent pas globalement de risque accru, tout en appelant à la vigilance",
+1,
+"C'est la lecture croisée des pages 75 et 245."
+],
+[
+"L'orthodontie guérit toujours les DAM",
+0,
+"Faux selon le livre."
+],
+[
+"L'orthodontie cause toujours les DAM",
+0,
+"La méta-analyse citée ne le soutient pas."
+]
+],
+"p": "74-75, 245"
+},
+{
+"s": "Le traitement touche à sa fin.",
+"q": "Quel objectif occlusal est prioritaire chez elle ?",
+"o": [
+[
+"Calage, centrage et guidage sans interférences postérieures",
+1,
+"Ce sont les impératifs occlusaux en présence d'un DAM."
+],
+[
+"Maximiser le recul mandibulaire",
+0,
+"Les forces doivent aller vers l'avancée condylienne, jamais le recul."
+],
+[
+"Laisser les interférences",
+0,
+"À éviter."
+]
+],
+"p": "74-75"
+}
+],
+"end": "Un bruit articulaire appelle un examen structuré, pas une promesse de guérison."
+},
+{
+"id": "k7",
+"t": "Malik, 22 ans, béance et décompensation",
+"lv": 4,
+"tags": [
+"chirurgie"
+],
+"ch": [
+1,
+2,
+6,
+9
+],
+"intro": "Malik présente une hyperdivergence sévère, une incompétence labiale, une béance majeure, une endognathie maxillaire et plusieurs caries.",
+"steps": [
+{
+"s": "Il demande une solution rapide par simples bagues.",
+"q": "Quel raisonnement suit le livre ?",
+"o": [
+[
+"Décalage hors des possibilités de compensation : discuter un protocole chirurgico-orthodontique et soigner d'abord",
+1,
+"Comme dans le cas clinique 1 : soins, motivation et stratégie commune."
+],
+[
+"Compensation seule, quoi qu'il arrive",
+0,
+"Elle ne corrige pas l'incompétence et menace le parodonte."
+],
+[
+"Bagues sans soigner les caries",
+0,
+"L'état dentaire est prioritaire."
+]
+],
+"p": "208-209"
+},
+{
+"s": "Suture ossifiée et discordance des diamètres intercanins.",
+"q": "Quelle option transversale choisir ?",
+"o": [
+[
+"Disjonction chirurgicale préorthodontique",
+1,
+"C'est son indication."
+],
+[
+"Disjonction orthodontique seule",
+0,
+"Elle entraînerait une vestibuloversion incontrôlée."
+],
+[
+"Expansion mandibulaire orthopédique",
+0,
+"Impossible."
+]
+],
+"p": "217"
+},
+{
+"s": "Pendant la préparation, sa béance reste présente, ce qui l'inquiète.",
+"q": "Pourquoi ne pas la fermer orthodontiquement ?",
+"o": [
+[
+"On ne corrige pas une manifestation occlusale de la dysmorphose pour ne pas fausser l'acte chirurgical",
+1,
+"Les béances antérieures dans les hyperdivergences sont maintenues."
+],
+[
+"Parce que les béances disparaissent toujours seules",
+0,
+"Faux."
+],
+[
+"Parce qu'elles n'ont aucune importance",
+0,
+"Faux."
+]
+],
+"p": "214"
+},
+{
+"s": "Après chirurgie, sa lèvre inférieure reste insensible et il ne se reconnaît plus.",
+"q": "Quelle attitude adopter ?",
+"o": [
+[
+"Expliquer l'anesthésie transitoire fréquente, écouter, surveiller un état dépressif et orienter si besoin",
+1,
+"Ce sont les deux points de vigilance de la phase postchirurgicale."
+],
+[
+"Lui dire que c'est imaginaire",
+0,
+"Elle est au contraire fréquente après clivage sagittal."
+],
+[
+"Réopérer d'emblée",
+0,
+"Rien ne l'indique."
+]
+],
+"p": "227"
+}
+],
+"end": "La chirurgie n'est pas un geste isolé : c'est une équipe, une préparation et un accompagnement."
+},
+{
+"id": "k8",
+"t": "Camille, 17 ans, fin de traitement",
+"lv": 2,
+"tags": [
+"contention",
+"récidive"
+],
+"ch": [
+5,
+7
+],
+"intro": "Traitement terminé : rotations sévères corrigées sur 12 et 22, expansion réalisée, dents de sagesse en évolution.",
+"steps": [
+{
+"s": "Elle veut tout retirer et ne plus rien porter.",
+"q": "Que répondre ?",
+"o": [
+[
+"Une contention est indispensable dans ce contexte",
+1,
+"Rotations sévères et expansion figurent parmi les situations où elle paraît indispensable."
+],
+[
+"La contention est inutile",
+0,
+"Le risque de récidive est élevé."
+],
+[
+"Une fois les bagues retirées, plus rien ne bouge",
+0,
+"Le vieillissement et les fibres peuvent faire bouger les dents."
+]
+],
+"p": "234"
+},
+{
+"s": "Les rotations sont l'enjeu principal.",
+"q": "Quel dispositif ou geste est le plus adapté ?",
+"o": [
+[
+"Fil tressé collé sur le groupe incisivocanin, et fibrotomie à discuter",
+1,
+"Le fil sur six dents contrôle mieux les rotations, et la fibrotomie réduit leur récidive d'environ 30 %."
+],
+[
+"Fil 3-3 uniquement",
+0,
+"Il contrôle mal les dérotations incisives."
+],
+[
+"Rien du tout",
+0,
+"Le risque serait élevé."
+]
+],
+"p": "237-239"
+},
+{
+"s": "L'expansion a été réalisée au maxillaire.",
+"q": "Comment la contenir ?",
+"o": [
+[
+"Contention amovible assez longue, en surveillant ventilation et mastication",
+1,
+"Pour une classe I endoalvéolie : 18 à 24 h par jour, avec symétrie de mastication et ventilation normale."
+],
+[
+"Une nuit par mois",
+0,
+"Insuffisant."
+],
+[
+"Élastiques de classe II",
+0,
+"Sans rapport."
+]
+],
+"p": "238"
+},
+{
+"s": "Elle demande combien de temps.",
+"q": "Quelle réponse suit le protocole du livre ?",
+"o": [
+[
+"Trois mois jour et nuit, neuf mois la nuit, plus longtemps selon le risque",
+1,
+"C'est le protocole classique, à prolonger ici selon rotations et croissance."
+],
+[
+"Deux semaines",
+0,
+"Trop court."
+],
+[
+"Vingt-quatre heures par jour à vie",
+0,
+"Non comme règle générale."
+]
+],
+"p": "240"
+}
+],
+"end": "La contention se planifie dès le début : ce n'est pas un détail de fin de traitement."
+},
+{
+"id": "k9",
+"t": "Lina, 9 ans, succion et béance",
+"lv": 1,
+"tags": [
+"fonctions",
+"succion"
+],
+"ch": [
+1,
+2,
+3
+],
+"intro": "Lina suce encore son pouce la nuit. Béance limitée aux incisives, qui sont vestibuloversées.",
+"steps": [
+{
+"s": "Son visage n'est pas allongé et la béance ne dépasse pas les canines.",
+"q": "Quelle orientation privilégier ?",
+"o": [
+[
+"Plutôt fonctionnelle",
+1,
+"Une béance limitée aux incisives vestibuloversées oriente dans ce sens."
+],
+[
+"Squelettique sévère",
+0,
+"Elle s'étendrait au-delà des canines."
+],
+[
+"Ankylose généralisée",
+0,
+"Sans argument."
+]
+],
+"p": "10"
+},
+{
+"s": "Elle souhaite arrêter, mais n'y parvient pas seule.",
+"q": "Quelle aide choisir ?",
+"o": [
+[
+"Aide consentie : sparadrap ou produit amer, avec implication de l'enfant",
+1,
+"Cette méthode s'adresse à ces enfants, et elle doit être consentie."
+],
+[
+"Imposer une grille sans discussion",
+0,
+"Pas d'action coercitive."
+],
+[
+"Lui faire honte",
+0,
+"Le risque serait une substitution par une autre habitude."
+]
+],
+"p": "91"
+},
+{
+"s": "L'habitude a cessé. Une pulsion linguale persiste.",
+"q": "Quelle suite est la plus logique ?",
+"o": [
+[
+"Myothérapie, et vérifier la ventilation",
+1,
+"Une infraclusion limitée peut bénéficier de l'éducation fonctionnelle, si l'anatomie le permet."
+],
+[
+"Disjonction chirurgicale",
+0,
+"Rien ne l'indique."
+],
+[
+"Attendre la fin de croissance",
+0,
+"Le trouble entretient l'anomalie."
+]
+],
+"p": "89-90"
+},
+{
+"s": "La béance se ferme après traitement.",
+"q": "Comment contenir ce résultat ?",
+"o": [
+[
+"Vérifier que la rééducation est achevée, une ELN pouvant bloquer la langue la nuit",
+1,
+"C'est le raisonnement proposé pour la classe I béance."
+],
+[
+"Augmenter le surplomb",
+0,
+"Sans rapport."
+],
+[
+"Rien, sans évaluation",
+0,
+"Il faut d'abord vérifier la cause."
+]
+],
+"p": "235, 238"
+}
+],
+"end": "Traiter la cause fonctionnelle améliore le pronostic, à condition de le faire avec l'enfant, pas contre lui."
+},
+{
+"id": "k10",
+"t": "Théo, 12 ans, ronflement et fatigue",
+"lv": 3,
+"tags": [
+"SAOS",
+"expansion"
+],
+"ch": [
+1,
+2,
+8
+],
+"intro": "Théo ronfle fort, se réveille fatigué et ses résultats scolaires baissent. Il a un palais étroit et de grosses amygdales.",
+"steps": [
+{
+"s": "Son ronflement persiste hors infection, avec reprises inspiratoires et énurésie.",
+"q": "Quelle hypothèse dois-tu évoquer ?",
+"o": [
+[
+"SAOS de l'enfant",
+1,
+"Ces signes nocturnes et diurnes y orientent."
+],
+[
+"Ronflement primaire certain",
+0,
+"Il n'est pas associé aux micro-éveils ni aux troubles diurnes."
+],
+[
+"Simple mauvaise habitude",
+0,
+"Le tableau est plus lourd."
+]
+],
+"p": "79-81"
+},
+{
+"s": "Les parents veulent commencer directement une orthèse d'avancée.",
+"q": "Que dire ?",
+"o": [
+[
+"Une polysomnographie et un avis spécialisé d'abord. L'orthèse se discute seulement si elle est aussi indiquée pour une dysmorphose",
+1,
+"Elle stimule la croissance mandibulaire et ne se propose qu'associée à la dysmorphose qui l'indique."
+],
+[
+"Oui, sans examen",
+0,
+"Le diagnostic doit être confirmé."
+],
+[
+"Non, l'orthodontiste n'a aucun rôle",
+0,
+"Il a un rôle préventif et thérapeutique."
+]
+],
+"p": "81-83"
+},
+{
+"s": "Les amygdales sont volumineuses.",
+"q": "Quel geste est souvent cité en premier ?",
+"o": [
+[
+"Adéno-amygdalectomie, suivie de rééducation ventilatoire",
+1,
+"C'est le premier geste cité."
+],
+[
+"Extractions de quatre prémolaires",
+0,
+"Elles ne traitent pas l'obstruction."
+],
+[
+"Masque de Delaire dans tous les cas",
+0,
+"Seulement si indiqué."
+]
+],
+"p": "81"
+},
+{
+"s": "Théo a aussi une endognathie maxillaire.",
+"q": "Quel intérêt peut avoir une disjonction ?",
+"o": [
+[
+"Plus de volume pour la langue et de section nasale, et une résistance nasale réduite",
+1,
+"Le livre cite une diminution de la résistance nasale d'environ 40 %."
+],
+[
+"Aucun",
+0,
+"Elle est au contraire citée parmi les options."
+],
+[
+"Elle allonge la mandibule",
+0,
+"Ce n'est pas son mode d'action."
+]
+],
+"p": "81"
+}
+],
+"end": "Ronfler n'est pas toujours bénin : l'orthodontiste dépiste, oriente et coordonne."
+},
+{
+"id": "t2-k1",
+"t": "Inès, 12 ans, un sourire « trop droit »",
+"lv": 3,
+"tags": [
+"classe II division 2",
+"supraclusion"
+],
+"ch": [
+11
+],
+"intro": "Inès n'a pas mal. Sa dentiste a remarqué que les incisives du bas touchent le palais.",
+"steps": [
+{
+"s": "Visage court, muscles élévateurs puissants, sillon labiomentonnier marqué. Incisives centrales maxillaires palatoversées, recouvrement excessif, faible décalage squelettique.",
+"q": "Quel tableau retiens-tu ?",
+"o": [
+[
+"Classe II division 2 avec hypodivergence",
+1,
+"Palatoversion, recouvrement et hypodivergence forment le tableau décrit."
+],
+[
+"Classe II division 1 avec hyperdivergence",
+0,
+"Ni le surplomb ni le visage long ne sont là."
+],
+[
+"Béance fonctionnelle",
+0,
+"Le recouvrement est excessif."
+]
+],
+"p": "T2:66-69"
+},
+{
+"s": "Le bilan montre une infra-alvéolie molaire. Inès a encore de la croissance, et sa palatoversion est très marquée.",
+"q": "Quelle séquence est la plus logique ?",
+"o": [
+[
+"Ingresser d'abord les incisives telles quelles",
+0,
+"La force passerait derrière le centre de résistance et accentuerait la palatoversion."
+],
+[
+"Corriger l'axe incisif, puis la supraclusion, en favorisant l'égression molaire",
+1,
+"Corriger l'axe libère souvent la mandibule."
+],
+[
+"Extraire d'emblée les quatre premières prémolaires",
+0,
+"L'extraction est un dernier recours dans ce tableau."
+]
+],
+"p": "T2:72-74, T2:82-83"
+},
+{
+"s": "Après la correction, ses parents demandent pourquoi la contention est si longue.",
+"q": "Quelle explication est la plus juste ?",
+"o": [
+[
+"La contention sert seulement à fixer les dents sur l'os",
+0,
+"La cause musculaire compte davantage."
+],
+[
+"La musculature tend à reproduire la malocclusion : hypercorrection et rééducation aident",
+1,
+"La récidive est d'origine musculaire, d'où ces précautions."
+],
+[
+"La récidive est impossible après 12 ans",
+0,
+"Elle reste fréquente."
+]
+],
+"p": "T2:83, T2:91, T2:96"
+}
+],
+"end": "Ce cas relie l'axe incisif, le vertical et le muscle : le même geste échoue ou réussit selon l'ordre choisi."
+},
+{
+"id": "t2-k2",
+"t": "Yanis, 7 ans, l'occlusion inversée qui se recentre",
+"lv": 2,
+"tags": [
+"transversal",
+"latérodéviation"
+],
+"ch": [
+13,
+14
+],
+"intro": "Yanis a un menton dévié à gauche lorsqu'il serre les dents, et un souffle bruyant la nuit.",
+"steps": [
+{
+"s": "Au repos, le visage est symétrique et les milieux coïncident. À la fermeture, le trajet est droit, puis un contact dévie la mandibule vers la gauche. Occlusion inversée latérale gauche.",
+"q": "Que conclus-tu ?",
+"o": [
+[
+"Latérognathie",
+0,
+"Le menton serait dévié au repos aussi, avec un chemin de fermeture rectiligne."
+],
+[
+"Latérodéviation dentaire",
+1,
+"Le premier contact guide la déviation."
+],
+[
+"Hyperplasie condylienne",
+0,
+"Rien ne l'évoque au repos."
+]
+],
+"p": "T2:203-205"
+},
+{
+"s": "Le palais est étroit, les procès droits, la largeur intermolaire de 28 mm.",
+"q": "Quelle cause recherches-tu ?",
+"o": [
+[
+"Une endognathie maxillaire",
+1,
+"Procès droits et largeur inférieure à 31 mm sont en sa faveur."
+],
+[
+"Une exognathie maxillaire",
+0,
+"Le maxillaire est étroit."
+],
+[
+"Une agénésie mandibulaire",
+0,
+"Aucun signe n'y oriente."
+]
+],
+"p": "T2:167-168"
+},
+{
+"s": "À cet âge, la suture répond encore et la croissance est active.",
+"q": "Pourquoi ne pas attendre la denture permanente ?",
+"o": [
+[
+"Pour éviter une évolution vers la latérognathie et profiter de la réponse suturale",
+1,
+"Le livre insiste sur ce traitement précoce."
+],
+[
+"Parce qu'une fois adulte, aucun traitement n'existe",
+0,
+"La chirurgie et l'orthodontie restent possibles."
+],
+[
+"Pour pouvoir supprimer toute contention",
+0,
+"La récidive impose une contention."
+]
+],
+"p": "T2:170-171, T2:205-207"
+},
+{
+"s": "Vous posez un disjoncteur et sa mère demande : « Il respirera forcément par le nez ? »",
+"q": "Que réponds-tu ?",
+"o": [
+[
+"Oui, c'est garanti",
+0,
+"Cette promesse dépasse les données."
+],
+[
+"La ventilation peut s'améliorer, mais ce n'est pas systématique, et il faut parfois un avis ORL",
+1,
+"Réponse honnête et cohérente avec le livre."
+],
+[
+"Non, cet appareil n'a aucun effet sur le nez",
+0,
+"Il agit sur la base du nez."
+]
+],
+"p": "T2:178, T2:188"
+}
+],
+"end": "Le fonctionnel se traite tôt, avant de devenir structural."
+},
+{
+"id": "t2-k3",
+"t": "Salma, 10 ans, la canine introuvable",
+"lv": 3,
+"tags": [
+"inclusion",
+"prévention"
+],
+"ch": [
+17
+],
+"intro": "Salma vient pour un contrôle. Sa canine temporaire 53 est solide et aucune voussure n'est palpable du côté droit.",
+"steps": [
+{
+"s": "La panoramique montre 13 inclinée en mésial, proche de la racine de 12. Il manque un peu de place. Aucune résorption évidente.",
+"q": "Quelle attitude préventive est la mieux appuyée ?",
+"o": [
+[
+"Surveiller jusqu'à 15 ans",
+0,
+"C'est manquer la fenêtre utile."
+],
+[
+"Extraire 53 et gagner de la place",
+1,
+"Le livre rapporte des résultats plus favorables, avec un gain d'espace."
+],
+[
+"Tracter 13 tout de suite",
+0,
+"La prévention est possible et aucune chirurgie n'est encore justifiée."
+]
+],
+"p": "T2:257-258"
+},
+{
+"s": "Un an plus tard, 13 n'a pas progressé. Un cône beam situe la couronne en palatin, sans ankylose visible.",
+"q": "Que décides-tu ?",
+"o": [
+[
+"Attendre encore trois ans",
+0,
+"Sans amélioration à un an, les chances spontanées sont très faibles."
+],
+[
+"Préparer une désinclusion chirurgico-orthodontique",
+1,
+"C'est la technique de choix sans contre-indication."
+],
+[
+"Avulsion immédiate",
+0,
+"Aucune indication ne la justifie ici."
+]
+],
+"p": "T2:258-259"
+},
+{
+"s": "Avant la chirurgie, 12 est en rotation et 13 reste au contact de sa racine.",
+"q": "Quelle préparation retiens-tu ?",
+"o": [
+[
+"Aligner 12 rapidement avec un arc rigide",
+0,
+"Ce mouvement peut augmenter la pression."
+],
+[
+"Ouvrir l'espace et stabiliser l'ancrage sans aggraver le contact sur 12",
+1,
+"Prudence et ancrage d'abord."
+],
+[
+"Extraire 12",
+0,
+"Rien ne l'impose."
+]
+],
+"p": "T2:259-262"
+},
+{
+"s": "La traction commence. Après plusieurs mois, le plan d'occlusion bascule et 13 ne bouge pas.",
+"q": "Quelle hypothèse testes-tu ?",
+"o": [
+[
+"Une ankylose",
+1,
+"Les mouvements parasites sous bon ancrage la font suspecter."
+],
+[
+"Une force trop faible, à porter à 500 g",
+0,
+"Augmenter la force n'est pas la réponse : le livre conseille environ 50 g."
+],
+[
+"Un effet normal à poursuivre",
+0,
+"Ce signe doit faire réévaluer."
+]
+],
+"p": "T2:266-267"
+}
+],
+"end": "Chaque étape dépend d'une question : y a-t-il encore une chance spontanée, puis la dent bouge-t-elle réellement ?"
+},
+{
+"id": "t2-k4",
+"t": "Nour, 14 ans, deux latérales absentes",
+"lv": 3,
+"tags": [
+"agénésie",
+"décision"
+],
+"ch": [
+18
+],
+"intro": "Nour présente une agénésie de 12 et 22. Ses canines sont déjà en position mésiale.",
+"steps": [
+{
+"s": "Classe III squelettique, profil concave, angle nasolabial ouvert, incisives en bout à bout.",
+"q": "Quelle stratégie est favorisée ?",
+"o": [
+[
+"Substitution avec rétraction",
+0,
+"Elle aggraverait le profil et le guide antérieur."
+],
+[
+"Remplacement prothétique",
+1,
+"Ces critères orientent vers l'ouverture des espaces."
+],
+[
+"Extraction des canines",
+0,
+"Elle sacrifierait les dents utiles."
+]
+],
+"p": "T2:271-272"
+},
+{
+"s": "Tu ouvres les espaces par déplacement distal des canines.",
+"q": "Quelle cible d'espace viser ?",
+"o": [
+[
+"3 à 4 mm",
+0,
+"Trop peu pour un implant."
+],
+[
+"6 à 7 mm, avec les racines divergentes",
+1,
+"Il faut environ 1 mm de chaque côté de l'implant."
+],
+[
+"10 mm ou plus",
+0,
+"Excessif."
+]
+],
+"p": "T2:282-283"
+},
+{
+"s": "Les dents sont alignées à 16 ans. Nour veut son implant maintenant. La croissance verticale n'est pas encore stable.",
+"q": "Que réponds-tu ?",
+"o": [
+[
+"D'accord, l'implant suit la croissance",
+0,
+"Il se comporte comme une dent ankylosée."
+],
+[
+"Attendre la stabilité vérifiée sur deux téléradiographies, avec une solution transitoire",
+1,
+"Na-Me doit rester constant entre deux clichés."
+],
+[
+"Fermer les espaces finalement",
+0,
+"Le projet reste valable."
+]
+],
+"p": "T2:282-283"
+},
+{
+"s": "Tu dois choisir une contention en attendant.",
+"q": "Laquelle protège le mieux l'espace radiculaire ?",
+"o": [
+[
+"Un dispositif fixe ou un bridge collé provisoire",
+1,
+"Les déplacements radiculaires suivis concernaient des retainers amovibles."
+],
+[
+"Rien, les racines ne bougent plus",
+0,
+"Elles peuvent se rapprocher."
+],
+[
+"Élastiques de classe III",
+0,
+"Ce n'est pas une contention."
+]
+],
+"p": "T2:283"
+}
+],
+"end": "Le choix se fait avec le visage et l'occlusion. Le calendrier et la contention le rendent réalisable."
+},
+{
+"id": "t2-k5",
+"t": "Adam, 9 ans, l'encombrement de Hotz",
+"lv": 2,
+"tags": [
+"DDM",
+"extractions pilotées"
+],
+"ch": [
+15
+],
+"intro": "Adam a un encombrement antérieur important et une famille très motivée pour un traitement précoce.",
+"steps": [
+{
+"s": "Classe I squelettique, légère hyperdivergence, surplomb et recouvrement normaux, manque de place estimé à 8 mm.",
+"q": "Ces données permettent-elles d'envisager des extractions pilotées ?",
+"o": [
+[
+"Oui, ce profil correspond à l'indication citée",
+1,
+"Encombrement net, classe I, recouvrement normal."
+],
+[
+"Non, elles sont réservées aux classes III",
+0,
+"C'est l'inverse : prudence en classe III."
+],
+[
+"Non, la croissance donnera la place",
+0,
+"Elle n'en donne pas spontanément à cet âge."
+]
+],
+"p": "T2:237-239"
+},
+{
+"s": "La racine de la première prémolaire n'a pas encore atteint la moitié de son édification.",
+"q": "Faut-il extraire la première molaire temporaire aujourd'hui ?",
+"o": [
+[
+"Oui",
+0,
+"La règle radiculaire n'est pas remplie."
+],
+[
+"Pas encore",
+1,
+"Il faut attendre la moitié de l'édification."
+],
+[
+"Il faut extraire la prémolaire avant",
+0,
+"La prémolaire n'a pas évolué."
+]
+],
+"p": "T2:237"
+},
+{
+"s": "Pendant le suivi, le recouvrement augmente et les incisives se verticalisent.",
+"q": "Comment l'interpréter ?",
+"o": [
+[
+"Un effet secondaire connu, qui se surveille",
+1,
+"Hotz donne un recul incisif de 1 à 2 mm et un recouvrement accru."
+],
+[
+"Une preuve d'erreur de diagnostic",
+0,
+"Ces effets sont attendus."
+],
+[
+"Une croissance anormale due aux extractions",
+0,
+"Le livre ne rapporte pas d'influence sur la croissance."
+]
+],
+"p": "T2:237-239"
+}
+],
+"end": "L'extraction pilotée est un guidage qui reste à surveiller, et un multi-attaches est souvent nécessaire ensuite."
+},
+{
+"id": "t2-k6",
+"t": "Mme B., 26 ans, le décalage qui dépasse la compensation",
+"lv": 4,
+"tags": [
+"asymétrie",
+"chirurgie"
+],
+"ch": [
+14,
+13
+],
+"intro": "Mme B. veut un sourire centré. Elle a refusé la chirurgie il y a dix ans.",
+"steps": [
+{
+"s": "Menton dévié de 7 mm à droite au repos et en occlusion, chemin de fermeture rectiligne, plan d'occlusion incliné.",
+"q": "Comment nommes-tu cette anomalie ?",
+"o": [
+[
+"Latérodéviation",
+0,
+"Le menton est dévié au repos."
+],
+[
+"Latérognathie",
+1,
+"Dévié au repos et en occlusion, chemin rectiligne."
+],
+[
+"Asymétrie dentaire",
+0,
+"Elle n'expliquerait pas le menton."
+]
+],
+"p": "T2:203-205"
+},
+{
+"s": "Elle demande si des élastiques peuvent tout corriger.",
+"q": "Quelle réponse donnes-tu ?",
+"o": [
+[
+"Oui, en les portant plus longtemps",
+0,
+"Le décalage basal dépasse les compensations."
+],
+[
+"Les élastiques peuvent compenser les dents, pas ce décalage basal : la chirurgie doit être discutée",
+1,
+"Dougherty associe 6 mm à la nécessité de chirurgie."
+],
+[
+"Non, rien n'est possible à cet âge",
+0,
+"La chirurgie reste possible."
+]
+],
+"p": "T2:224"
+},
+{
+"s": "Elle accepte la chirurgie. Le milieu mandibulaire est aligné avec le menton.",
+"q": "Quel objectif préparatoire respecte le mieux la logique du livre ?",
+"o": [
+[
+"Maintenir les compensations pour réduire l'acte",
+0,
+"Elles doivent être levées."
+],
+[
+"Centrer chaque milieu sur sa base et garder la bascule pour la corriger au bloc",
+1,
+"Le chirurgien corrige la bascule par déplacements asymétriques."
+],
+[
+"Corriger la bascule complètement par élastiques",
+0,
+"Ce serait une compensation inutile avant chirurgie."
+]
+],
+"p": "T2:226-227"
+},
+{
+"s": "Après l'intervention, elle veut retirer la contention rapidement.",
+"q": "Quel message transmets-tu ?",
+"o": [
+[
+"Aucune contention n'est nécessaire",
+0,
+"Les asymétries structurales récidivent davantage."
+],
+[
+"La contention reste longue, avec mastication alternée, à cause de la mémoire musculaire",
+1,
+"Ce conseil suit le livre."
+],
+[
+"Six semaines suffisent toujours",
+0,
+"Le livre ne donne pas cette durée."
+]
+],
+"p": "T2:227"
+}
+],
+"end": "Le raisonnement s'arrête aux limites de la compensation."
+}
+],
+"chains": [
+{
+"t": "Du nez à la récidive",
+"why": "Comment une gêne respiratoire devient une forme d'arcade, puis une menace pour la stabilité.",
+"ids": [
+"c1-ventilation",
+"c2-ventilation-meca",
+"c3-ventilation",
+"c2-transversal",
+"c7-individualiser"
+]
+},
+{
+"t": "La croissance décide du moment",
+"why": "Estimer, choisir, sélectionner, puis anticiper la récidive.",
+"ids": [
+"c2-croissance-estimer",
+"c2-age",
+"c4-age",
+"c4-principes",
+"c7-facteurs"
+]
+},
+{
+"t": "Compenser ou décompenser ?",
+"why": "La même inclinaison dentaire est gardée dans un cas et supprimée dans l'autre.",
+"ids": [
+"c1-compensations",
+"c2-compensations-gestion",
+"c5-extractions",
+"c6-preparation"
+]
+},
+{
+"t": "De la cellule au fil",
+"why": "Pourquoi la biologie dicte le choix du fil, et le fil celui de l'ancrage.",
+"ids": [
+"c5-force",
+"c5-optimal",
+"c5-fil-proprietes",
+"c5-fil-usage",
+"c5-canine",
+"c2-ancrage"
+]
+},
+{
+"t": "La rotation mandibulaire partout",
+"why": "Une même rotation décide du pronostic, de la FEO, des élastiques et de la chirurgie.",
+"ids": [
+"c2-rotation",
+"c2-pronostic",
+"c5-feo-ortho",
+"c5-tim",
+"c6-programme"
+]
+},
+{
+"t": "L'articulation dans le plan",
+"why": "Examiner, classer, adapter la mécanique et informer.",
+"ids": [
+"c1-dynamique",
+"c2-atm",
+"c2-atm-grades",
+"c5-tim",
+"c8-atm"
+]
+},
+{
+"t": "Du visage aux incisives",
+"why": "Le visage fixe la position des incisives, qui guide l'espace et les extractions.",
+"ids": [
+"c1-nasolabial",
+"c1-sourire",
+"c2-incisive",
+"c2-espace",
+"c2-solutions",
+"c5-effets"
+]
+},
+{
+"t": "Tôt ou plus tard ?",
+"why": "Le livre défend l'action précoce à plusieurs endroits, et son propre chapitre 8 la nuance.",
+"ids": [
+"c2-age",
+"c4-age",
+"c8-classe2",
+"c8-classe3",
+"c4-delaire"
+]
+},
+{
+"t": "Informer pour protéger",
+"why": "L'information accompagne tout le soin, jusqu'à la surveillance d'un risque.",
+"ids": [
+"c1-psy",
+"c9-info",
+"c9-consent",
+"c6-strategie",
+"c9-resorption"
+]
+},
+{
+"t2": 1,
+"t": "Du principe à la classe II",
+"why": "Le tome 1 pose les règles, le tome 2 les applique à un même patient.",
+"ids": [
+"c1-angle",
+"c2-attitudes",
+"c4-age",
+"t2-c2d1-moment",
+"t2-c2-sansext",
+"t2-c2-chir"
+]
+},
+{
+"t2": 1,
+"t": "Le transversal, de l'examen à la contention",
+"why": "Une même anomalie suivie de la suture jusqu'à la récidive.",
+"ids": [
+"c1-tele-front",
+"c2-transversal",
+"t2-t-diag",
+"t2-t-disj",
+"t2-t-sarpe",
+"c7-individualiser"
+]
+},
+{
+"t2": 1,
+"t": "Une latérale absente, une canine en danger",
+"why": "Agénésie et inclusion partagent un même mécanisme de guidage.",
+"ids": [
+"c2-agenesie",
+"t2-agen-def",
+"t2-inc-def",
+"t2-inc-prev",
+"t2-agen-choix"
+]
+},
+{
+"t2": 1,
+"t": "Extraire : selon quoi ?",
+"why": "La même décision change selon la typologie, le profil et l'origine du manque de place.",
+"ids": [
+"c5-extractions",
+"t2-ddm-def",
+"t2-ddm-pilotees",
+"t2-c2-avecext",
+"t2-ddd-ttt",
+"t2-agen-pm"
+]
+},
+{
+"t2": 1,
+"t": "La divergence commande la mécanique",
+"why": "Le vertical contre-indique certaines mécaniques dans plusieurs anomalies.",
+"ids": [
+"t2-v-meca",
+"t2-c2d1-controle",
+"t2-v-hyper-ttt",
+"t2-v-hypo-ttt",
+"t2-agen-pm"
+]
+}
+],
+"tensions": [
+{
+"t": "Classe II : agir tôt ?",
+"a": "Plusieurs passages valorisent l'action précoce, comme la bioprogressive.",
+"ap": "100, 196",
+"b": "Les données citées au chapitre 8 concluent à une moindre efficience du traitement précoce de classe II.",
+"bp": "246",
+"q": "Comment expliquer à des parents qu'un traitement peut être efficace sans être le plus efficient ?",
+"n": [
+"c4-age",
+"c8-classe2"
+]
+},
+{
+"t": "Déglutition : cause ou adaptation ?",
+"a": "Pour certains auteurs, la dysfonction cause l'anomalie alvéolaire.",
+"ap": "44",
+"b": "Pour d'autres, elle n'est qu'une adaptation à la morphologie. Le livre juge son rôle squelettique faible.",
+"bp": "44",
+"q": "Quelle étude faudrait-il pour trancher ? Une série de cas suffirait-elle ?",
+"n": [
+"c2-deglutition",
+"c8-hierarchie"
+]
+},
+{
+"t": "Posture et occlusion",
+"a": "Le livre conseille un examen postural et une correspondance avec plusieurs spécialistes.",
+"ap": "13-14",
+"b": "Il cite aussi une revue sur le niveau de preuve de ces associations.",
+"bp": "36",
+"q": "Une association observée démontre-t-elle une cause ?",
+"n": [
+"c1-posture",
+"c8-hierarchie"
+]
+},
+{
+"t": "Attaches autoligaturantes",
+"a": "Le chapitre présente une petite révolution, moins d'extractions et un confort amélioré.",
+"ap": "192-193",
+"b": "Le même chapitre écrit qu'elles ne sont pas une panacée et ne remplacent pas le diagnostic.",
+"bp": "190",
+"q": "Quels résultats précis voudrais-tu lire dans un essai randomisé ?",
+"n": [
+"c5-autoligature",
+"c8-hierarchie"
+]
+},
+{
+"t": "Hypercorrection",
+"a": "Pour Roth ou Ricketts, elle anticipe la récidive.",
+"ap": "166, 196",
+"b": "D'autres y voient une source d'instabilité occlusale. Elle est aussi difficile à quantifier.",
+"bp": "166, 239",
+"q": "Dans quels cas accepterais-tu ce pari ?",
+"n": [
+"c5-finitions",
+"c7-surcorrection"
+]
+},
+{
+"t": "Dents de sagesse et encombrement",
+"a": "Une évolution sur arcade étroite peut poser plusieurs problèmes.",
+"ap": "239",
+"b": "Les études sont contradictoires et l'extraction systématique n'est pas justifiée.",
+"bp": "155, 239",
+"q": "Quels éléments de ton patient guident la décision ?",
+"n": [
+"c5-extr-molaires",
+"c7-sagesses"
+]
+},
+{
+"t": "Aligneurs",
+"a": "Le texte dit que l'efficacité de la méthode n'est plus à démontrer.",
+"ap": "199",
+"b": "Le même texte la dit parfois hasardeuse dans certaines malocclusions.",
+"bp": "200",
+"q": "Quel niveau de preuve soutient cette première phrase dans le livre ?",
+"n": [
+"c5-aligneurs",
+"c8-hierarchie"
+]
+},
+{
+"t": "CBCT à la place de tout ?",
+"a": "Le livre envisage que le CBCT remplace à terme la panoramique et la téléradiographie.",
+"ap": "32",
+"b": "Il rappelle aussi la vulnérabilité des enfants et le principe de justification.",
+"bp": "32",
+"q": "Sur quel argument justifierais-tu cet examen chez un enfant ?",
+"n": [
+"c1-cbct"
+]
+},
+{
+"t2": 1,
+"t": "Âge de l'orthopédie",
+"a": "Le tome 1 situe un âge favorable à l'orthopédie autour de 7-9 ans.",
+"ap": "100",
+"b": "Le tome 2 discute plutôt les essais randomisés et l'intérêt du pic pubertaire pour la classe II.",
+"bp": "T2:15-17",
+"q": "Dans quel cas défendrais-tu un début précoce malgré ces essais ?",
+"n": [
+"c4-age",
+"t2-c2d1-moment"
+]
+},
+{
+"t2": 1,
+"t": "Jusqu'à quel âge disjoindre ?",
+"a": "Le tome 1 donne des repères précoces : synostose partielle dès 14 ans chez la fille et 17 ans chez le garçon.",
+"ap": "217",
+"b": "Le tome 2 cite une action possible jusqu'à 16 et 18 ans, et l'absence de consensus entre 15 et 25 ans.",
+"bp": "T2:170, T2:189",
+"q": "Quel examen remplace un âge couperet, et que change-t-il pour ton patient ?",
+"n": [
+"c6-disjonction",
+"t2-t-disj",
+"t2-t-sarpe"
+]
+},
+{
+"t2": 1,
+"t": "Élargir pour mieux respirer ?",
+"a": "La disjonction augmente le volume des fosses nasales et peut faciliter la ventilation nasale.",
+"ap": "T2:178",
+"b": "Le même chapitre indique que ce passage n'est pas systématique et que le lien de causalité reste discuté.",
+"bp": "T2:188",
+"q": "Que dis-tu aux parents avant de poser un disjoncteur chez un enfant ronfleur ?",
+"n": [
+"t2-t-disj",
+"c2-saos"
+]
+},
+{
+"t2": 1,
+"t": "Faut-il surcorriger la supraclusion ?",
+"a": "La majorité des auteurs préconise une hypercorrection pour limiter la récidive.",
+"ap": "T2:73, T2:160",
+"b": "Philippe s'y oppose, signale le livre.",
+"bp": "T2:160",
+"q": "Sur quels éléments du patient fonderais-tu ta décision ?",
+"n": [
+"t2-c2d2-ttt",
+"t2-v-stabilite"
+]
+},
+{
+"t2": 1,
+"t": "Herbst : un effet durable ?",
+"a": "Pendant le port, l'allongement mandibulaire est environ trois fois supérieur aux témoins.",
+"ap": "T2:21-26",
+"b": "Le même passage rappelle qu'une grande partie de cet effet initial est temporaire.",
+"bp": "T2:21-26",
+"q": "Quelle mesure, à quel moment, permet de juger un appareil de propulsion ?",
+"n": [
+"t2-herbst",
+"c4-herbst"
+]
+},
+{
+"t2": 1,
+"t": "Substitution ou remplacement : que valent les chiffres ?",
+"a": "La satisfaction citée favorise nettement la substitution : 93 % contre 65 %.",
+"ap": "T2:272",
+"b": "Cette étude est ancienne et n'inclut pas les implants, dont le succès cité dépasse 95 %.",
+"bp": "T2:272, T2:279",
+"q": "Pourquoi ces deux chiffres ne répondent-ils pas à la même question ?",
+"n": [
+"t2-agen-subst",
+"t2-agen-rempl"
+]
+}
+],
+"plan": [
+{
+"m": "Observer",
+"c": "T1, ch. 1",
+"s": [
+{
+"t": "Anamnèse et visage",
+"n": [
+"c1-demarche",
+"c1-anamnese",
+"c1-face-sym",
+"c1-face-vert",
+"c1-profil-sag",
+"c1-nasolabial",
+"c1-profil-vert",
+"c1-sourire"
+]
+},
+{
+"t": "Occlusion dans les trois sens",
+"n": [
+"c1-endo-bases",
+"c1-angle",
+"c1-vertical",
+"c1-transversal",
+"c1-compensations",
+"c1-dents-paro"
+]
+},
+{
+"t": "Fonctions et psychologie",
+"n": [
+"c1-levres",
+"c1-langue",
+"c1-ventilation",
+"c1-deglutition",
+"c1-mastication",
+"c1-dynamique",
+"c1-posture",
+"c1-psy"
+]
+},
+{
+"t": "Imagerie et céphalométrie",
+"n": [
+"c1-opt",
+"c1-tele",
+"c1-ceph-limites",
+"c1-ceph-sag",
+"c1-ceph-vert",
+"c1-ceph-dent",
+"c1-esthetique-ceph",
+"c1-tele-front",
+"c1-cbct",
+"c1-moulages"
+]
+}
+]
+},
+{
+"m": "Décider",
+"c": "T1, ch. 2 et 9",
+"s": [
+{
+"t": "Synthèse et étiologie",
+"n": [
+"c2-synthese",
+"c2-general",
+"c2-heredite",
+"c2-agenesie",
+"c2-dysfonctions",
+"c2-ventilation-meca",
+"c2-mastication",
+"c2-deglutition",
+"c2-succion"
+]
+},
+{
+"t": "Croissance et pronostic",
+"n": [
+"c2-croissance-mecan",
+"c2-rotation",
+"c2-croissance-estimer",
+"c2-tweed-types",
+"c2-pronostic"
+]
+},
+{
+"t": "Objectifs, âge et attitudes",
+"n": [
+"c2-plan-objectifs",
+"c2-age",
+"c2-cinetique",
+"c2-attitudes",
+"c2-transversal",
+"c2-compensations-gestion"
+]
+},
+{
+"t": "Espace, incisive et ancrage",
+"n": [
+"c2-espace",
+"c2-incisive",
+"c2-solutions",
+"c2-ancrage"
+]
+},
+{
+"t": "Risques : ATM, parodonte, SAOS",
+"n": [
+"c2-atm",
+"c2-atm-grades",
+"c2-paro",
+"c2-saos"
+]
+},
+{
+"t": "Informer et sécuriser",
+"n": [
+"c9-info",
+"c9-preuve",
+"c9-consent",
+"c9-dossier",
+"c9-moyens",
+"c9-donnees",
+"c9-resorption",
+"c9-extractions"
+]
+}
+]
+},
+{
+"m": "Agir tôt, avec esprit critique",
+"c": "T1, ch. 8, 3 et 4",
+"s": [
+{
+"t": "Lire une preuve",
+"n": [
+"c8-principe",
+"c8-hierarchie",
+"c8-atm",
+"c8-classe3",
+"c8-classe2",
+"c8-fluor"
+]
+},
+{
+"t": "Fonctions et habitudes",
+"n": [
+"c3-objectifs",
+"c3-ventilation",
+"c3-frein",
+"c3-mastication",
+"c3-education",
+"c3-habitudes",
+"c3-appareils"
+]
+},
+{
+"t": "Dentition et espace",
+"n": [
+"c3-temporaires",
+"c3-mainteneurs",
+"c3-permanente"
+]
+},
+{
+"t": "Orthopédie",
+"n": [
+"c4-age",
+"c4-principes",
+"c4-port",
+"c4-andresen",
+"c4-vertical",
+"c4-feo",
+"c4-herbst",
+"c4-bimler",
+"c4-classe3",
+"c4-delaire",
+"c4-disjoncteur"
+]
+}
+]
+},
+{
+"m": "Déplacer les dents",
+"c": "T1, ch. 5",
+"s": [
+{
+"t": "Biologie du déplacement",
+"n": [
+"c5-remodelage",
+"c5-force",
+"c5-optimal"
+]
+},
+{
+"t": "Biomécanique",
+"n": [
+"c5-biomeca",
+"c5-moment",
+"c5-equilibre"
+]
+},
+{
+"t": "Attaches et collage",
+"n": [
+"c5-attaches",
+"c5-friction",
+"c5-collage"
+]
+},
+{
+"t": "Fils",
+"n": [
+"c5-fil-proprietes",
+"c5-niti",
+"c5-fil-usage"
+]
+},
+{
+"t": "FEO et élastiques",
+"n": [
+"c5-feo-ortho",
+"c5-tim",
+"c5-forsus"
+]
+},
+{
+"t": "Ancrage squelettique",
+"n": [
+"c5-minivis",
+"c5-miniplaques"
+]
+},
+{
+"t": "Extractions",
+"n": [
+"c5-extractions",
+"c5-extr-molaires",
+"c5-effets"
+]
+},
+{
+"t": "Phases du traitement",
+"n": [
+"c5-nivellement",
+"c5-preparation-ancrage",
+"c5-canine",
+"c5-retraction",
+"c5-finitions"
+]
+},
+{
+"t": "Techniques",
+"n": [
+"c5-techniques",
+"c5-roth",
+"c5-autoligature",
+"c5-bioprog",
+"c5-technique-linguale",
+"c5-aligneurs"
+]
+}
+]
+},
+{
+"m": "Limites et stabilité",
+"c": "T1, ch. 6 et 7",
+"s": [
+{
+"t": "Indications et préparation",
+"n": [
+"c6-indications",
+"c6-strategie",
+"c6-calendrier",
+"c6-preparation",
+"c6-transversal",
+"c6-disjonction"
+]
+},
+{
+"t": "Chirurgie et suites",
+"n": [
+"c6-programme",
+"c6-postchir",
+"c6-distraction"
+]
+},
+{
+"t": "Contention",
+"n": [
+"c7-facteurs",
+"c7-vieillissement",
+"c7-indispensable",
+"c7-quand",
+"c7-dispositifs",
+"c7-individualiser",
+"c7-surcorrection",
+"c7-sagesses",
+"c7-duree"
+]
+}
+]
+},
+{
+"t2": 1,
+"m": "Traiter : sagittal et vertical",
+"c": "T2, ch. 1 et 2",
+"s": [
+{
+"t": "Classe II division 1 : comprendre",
+"n": [
+"t2-c2d1-def",
+"t2-c2d1-etio",
+"t2-verrous",
+"t2-c2d1-clin",
+"t2-c2d1-risques"
+]
+},
+{
+"t": "Classe II : quand agir",
+"n": [
+"t2-c2d1-objectifs",
+"t2-c2d1-moment",
+"t2-c2d1-ortho"
+]
+},
+{
+"t": "Classe II : orthopédie",
+"n": [
+"t2-activateur",
+"t2-herbst",
+"t2-feo-c2"
+]
+},
+{
+"t": "Classe II : corriger sans extraction",
+"n": [
+"t2-c2-correction",
+"t2-c2-sansext",
+"t2-c2d1-controle"
+]
+},
+{
+"t": "Classe II : extractions et chirurgie",
+"n": [
+"t2-c2-14-24",
+"t2-c2-avecext",
+"t2-c2-chir"
+]
+},
+{
+"t": "Classe II division 2",
+"n": [
+"t2-c2d2-def",
+"t2-c2d2-muscles",
+"t2-c2d2-risques",
+"t2-c2d2-ttt",
+"t2-c2d2-ext"
+]
+},
+{
+"t": "Classe III : diagnostic et croissance",
+"n": [
+"t2-c3-formes",
+"t2-c3-croissance",
+"t2-c3-precoce"
+]
+},
+{
+"t": "Classe III : traiter",
+"n": [
+"t2-c3-appareils",
+"t2-c3-ortho",
+"t2-c3-chir",
+"t2-c3-prep"
+]
+},
+{
+"t": "Biproalvéolie",
+"n": [
+"t2-bipro",
+"t2-bipro-ttt"
+]
+},
+{
+"t": "Vertical : lire et prévoir",
+"n": [
+"t2-v-termes",
+"t2-v-meca",
+"t2-v-hyper-clin",
+"t2-v-recouvrement",
+"t2-v-evolution"
+]
+},
+{
+"t": "Hyperdivergence et hypodivergence",
+"n": [
+"t2-v-hyper-ttt",
+"t2-v-hyper-chir",
+"t2-v-hypo-ttt"
+]
+},
+{
+"t": "Béance, supraclusion, stabilité",
+"n": [
+"t2-v-beance",
+"t2-v-supra",
+"t2-v-stabilite"
+]
+}
+]
+},
+{
+"t2": 1,
+"m": "Traiter : transversal, espace et dents",
+"c": "T2, ch. 3 à 8",
+"s": [
+{
+"t": "Transversal : diagnostiquer",
+"n": [
+"t2-t-formes",
+"t2-t-diag",
+"t2-t-precoce"
+]
+},
+{
+"t": "Transversal : élargir ou contracter",
+"n": [
+"t2-t-quad",
+"t2-t-disj",
+"t2-t-sarpe",
+"t2-t-brodie"
+]
+},
+{
+"t": "Asymétries : examiner",
+"n": [
+"t2-a-spec",
+"t2-a-clin",
+"t2-a-tableau"
+]
+},
+{
+"t": "Asymétries : décider",
+"n": [
+"t2-a-latero",
+"t2-a-attitudes"
+]
+},
+{
+"t": "Asymétries : corriger",
+"n": [
+"t2-a-ortho",
+"t2-a-limites",
+"t2-a-chir"
+]
+},
+{
+"t": "DDM",
+"n": [
+"t2-ddm-def",
+"t2-ddm-signes",
+"t2-ddm-pilotees",
+"t2-ddm-perm"
+]
+},
+{
+"t": "DDD et Bolton",
+"n": [
+"t2-ddd-def",
+"t2-ddd-ttt"
+]
+},
+{
+"t": "Canine incluse : prévenir",
+"n": [
+"t2-inc-def",
+"t2-inc-diag",
+"t2-inc-prev",
+"t2-inc-choix"
+]
+},
+{
+"t": "Canine incluse : désinclure",
+"n": [
+"t2-inc-prep",
+"t2-inc-chir",
+"t2-inc-traction"
+]
+},
+{
+"t": "Agénésies : latérale",
+"n": [
+"t2-agen-def",
+"t2-agen-choix",
+"t2-agen-subst",
+"t2-agen-rempl"
+]
+},
+{
+"t": "Agénésies : prémolaires et formes multiples",
+"n": [
+"t2-agen-pm",
+"t2-agen-mult"
+]
+}
+]
+}
+],
+"moreq": [
+{
+"n": "c1-demarche",
+"lv": 2,
+"q": "Pourquoi faut-il parfois ajuster un plan de traitement orthodontique en cours de route chez l'enfant ?",
+"o": [
+"L'estimation de la croissance résiduelle est difficile et imprécise",
+"Le plan n'a aucune valeur",
+"Les radiographies sont interdites",
+"L'occlusion ne change jamais"
+],
+"a": 0,
+"ex": "La quantité et la direction de croissance restent difficiles à prévoir.",
+"p": "4"
+},
+{
+"n": "c1-anamnese",
+"lv": 2,
+"q": "Une mère signale une allergie de son fils au latex avant un traitement avec élastiques. Quelle est la conséquence directe ?",
+"o": [
+"Aucune",
+"Adapter le matériel et faire préciser l'allergie",
+"Renoncer à tout traitement",
+"Extraire les incisives"
+],
+"a": 1,
+"ex": "Les allergies peuvent interdire certains composants. Des élastiques sans latex existent, et un bilan allergologique complète la consultation.",
+"p": "4, 83, 143"
+},
+{
+"n": "c1-face-vert",
+"lv": 1,
+"q": "Lequel oriente vers une insuffisance de développement vertical antérieur ?",
+"o": [
+"Plis faciaux accentués",
+"Plis faciaux effacés",
+"Crispation du mentonnier",
+"Visage très allongé"
+],
+"a": 0,
+"ex": "Leur accentuation traduit une insuffisance verticale antérieure.",
+"p": "5"
+},
+{
+"n": "c1-profil-sag",
+"lv": 2,
+"q": "Un enfant de 6 ans a un profil modérément convexe. Comment l'interpréter en premier ?",
+"o": [
+"Classe II sévère certaine",
+"Une convexité est normale chez le jeune enfant et s'atténue avec la croissance",
+"Classe III",
+"Chirurgie à prévoir"
+],
+"a": 1,
+"ex": "L'âge fait partie de l'interprétation : seule une augmentation traduit un décalage.",
+"p": "6"
+},
+{
+"n": "c1-sourire",
+"lv": 2,
+"q": "De profil, quelle inclinaison incisive est le plus souvent mal perçue ?",
+"o": [
+"Face vestibulaire perpendiculaire au plan de Francfort",
+"Vestibuloversion de 5°",
+"Linguoversion, même minime",
+"Aucune"
+],
+"a": 2,
+"ex": "Une vestibuloversion de 5° reste acceptable, alors qu'une linguoversion minime est le plus souvent mal perçue.",
+"p": "8"
+},
+{
+"n": "c1-langue",
+"lv": 2,
+"q": "Mobilité linguale réduite, langue basse et diastèmes mandibulaires. Que rechercher ?",
+"o": [
+"Un frein lingual court",
+"Une ankylose molaire",
+"Une latérodéviation",
+"Une prognathie maxillaire"
+],
+"a": 0,
+"ex": "Une mobilité réduite est souvent liée à un frein court qui maintient la langue en position basse.",
+"p": "16"
+},
+{
+"n": "c2-synthese",
+"lv": 2,
+"q": "Selon le livre, quel critère est prépondérant dans le choix de l'action sur le squelette ?",
+"o": [
+"La seule valeur d'ANB",
+"L'examen clinique et l'amélioration esthétique recherchée",
+"Le coût",
+"La marque de l'appareil"
+],
+"a": 1,
+"ex": "La céphalométrie aide, mais l'examen clinique et l'esthétique recherchée sont prépondérants.",
+"p": "38"
+},
+{
+"n": "c2-general",
+"lv": 3,
+"q": "Enfant avec agénésies multiples et dents coniques. Quelle est la meilleure réaction ?",
+"o": [
+"Poser immédiatement un multi-attaches",
+"Rechercher une maladie génétique par un examen attentif et des consultations spécialisées",
+"Ne rien noter",
+"Extraire les dents coniques"
+],
+"a": 1,
+"ex": "Ces signes d'appel font rechercher d'autres éléments dysmorphiques, par exemple une dysplasie ectodermique.",
+"p": "40, 42"
+},
+{
+"n": "c2-dysfonctions",
+"lv": 3,
+"q": "Pourquoi une force de repos faible peut-elle modeler les arcades ?",
+"o": [
+"Elle agit longtemps : la durée compte plus que l'intensité",
+"Elle dépasse toujours 400 g",
+"Elle bloque la pulpe",
+"Elle ne peut pas les modeler"
+],
+"a": 0,
+"ex": "L'influence dépend surtout de la fréquence et de la durée d'application.",
+"p": "43"
+},
+{
+"n": "c2-ventilation-meca",
+"lv": 3,
+"q": "Par quel mécanisme une extension céphalique peut-elle allonger la face selon le livre ?",
+"o": [
+"Elle augmente les tractions sur la mandibule et favorise sa postérorotation",
+"Elle fait grandir le palais vers le haut",
+"Elle ferme les sutures",
+"Elle supprime la langue"
+],
+"a": 0,
+"ex": "La posture en extension augmente les tractions musculaires et aponévrotiques.",
+"p": "43"
+},
+{
+"n": "c2-mastication",
+"lv": 2,
+"q": "Quel cercle vicieux décrit le livre ?",
+"o": [
+"Mastication unilatérale dominante, croissance asymétrique, renforcement de cette mastication",
+"Déglutition normale, puis ankylose",
+"Bruxisme, puis expansion",
+"Hypodontie, puis macrodontie"
+],
+"a": 0,
+"ex": "Les modifications morphologiques renforcent la mastication unilatérale dominante.",
+"p": "43-44"
+},
+{
+"n": "c2-deglutition",
+"lv": 3,
+"q": "Quel énoncé résume le mieux le rôle squelettique d'une déglutition dysfonctionnelle ?",
+"o": [
+"Cause principale de toute classe II",
+"Rôle faible : facteur aggravant ou favorisant, à considérer avec les autres fonctions",
+"Aucun lien avec la langue",
+"Indication directe de chirurgie"
+],
+"a": 1,
+"ex": "Le livre rappelle que ce rôle est discuté et que la déglutition ne peut être isolée des autres fonctions.",
+"p": "44"
+},
+{
+"n": "c5-remodelage",
+"lv": 2,
+"q": "Que peut-il se passer si le ligament alvéolodentaire est atteint ?",
+"o": [
+"La dent s'ankylose",
+"La dent bouge plus vite",
+"L'émail repousse",
+"La pulpe se calcifie toujours"
+],
+"a": 0,
+"ex": "Le ligament protège la racine en contrôlant le remodelage osseux.",
+"p": "116"
+},
+{
+"n": "c5-remodelage",
+"lv": 1,
+"q": "Dans quel ordre se déroule la séquence de remodelage osseux ?",
+"o": [
+"Résorption, activation, formation, inversion",
+"Activation, résorption, inversion, formation",
+"Formation, résorption, activation, inversion",
+"Inversion, formation, activation, résorption"
+],
+"a": 1,
+"ex": "C'est la séquence ARIF, suivie d'une phase de quiescence.",
+"p": "117"
+},
+{
+"n": "c5-friction",
+"lv": 2,
+"q": "Une force légère ne déplace pas une dent en glissement. Quelle explication est possible ?",
+"o": [
+"Elle ne dépasse pas les forces de friction",
+"Elle dépasse le seuil de hyalinisation",
+"La dent est ostéointégrée",
+"Le fil est trop souple pour glisser, toujours"
+],
+"a": 0,
+"ex": "Une force légère n'agit que si elle est supérieure aux forces de friction.",
+"p": "134"
+},
+{
+"n": "c5-equilibre",
+"lv": 3,
+"q": "Un arc de base d'ingression incisive a quel effet parasite attendu ?",
+"o": [
+"Ingression molaire et bascule anti-horaire",
+"Égression molaire et bascule horaire du plan d'occlusion",
+"Expansion basale",
+"Aucun"
+],
+"a": 1,
+"ex": "Le moment d'équilibre favorise l'ingression incisive et l'égression molaire.",
+"p": "123"
+},
+{
+"n": "c5-miniplaques",
+"lv": 2,
+"q": "Quel avantage les miniplaques ont-elles par rapport aux minivis ?",
+"o": [
+"Pose plus simple",
+"Forces plus importantes et position loin des racines",
+"Aucun acte chirurgical",
+"Aucune hygiène à surveiller"
+],
+"a": 1,
+"ex": "Leur mise en œuvre est plus délicate, mais elles permettent notamment le recul en masse d'une arcade.",
+"p": "151"
+},
+{
+"n": "c5-forsus",
+"lv": 2,
+"q": "Pourquoi choisir un dispositif intermaxillaire de type bielle plutôt que des élastiques ?",
+"o": [
+"Pour réduire la dépendance à la coopération",
+"Pour supprimer tout effet dentaire",
+"Pour éviter tout effet vertical",
+"Pour remplacer la contention"
+],
+"a": 0,
+"ex": "Ils limitent la coopération nécessaire mais leurs effets dento-alvéolaires s'apparentent à ceux des tractions.",
+"p": "146-147"
+},
+{
+"n": "c3-frein",
+"lv": 2,
+"q": "La freinectomie linguale se décide aujourd'hui surtout :",
+"o": [
+"Systématiquement à la naissance",
+"Selon ses conséquences sur l'allaitement, les arcades et le maxillaire",
+"Uniquement à l'âge adulte",
+"Jamais"
+],
+"a": 1,
+"ex": "Elle est suivie d'exercices pour éviter une cicatrisation fibreuse.",
+"p": "88"
+},
+{
+"n": "c4-vertical",
+"lv": 3,
+"q": "Sous activateur, un patient hypodivergent à forte supraclusion demande quel réglage de résine ?",
+"o": [
+"Décharger aux molaires pour permettre leur égression et couvrir le bord incisif",
+"Forte résine molaire",
+"Décharger uniquement les incisives",
+"Aucun réglage"
+],
+"a": 0,
+"ex": "Cette égression entraîne cependant une rotation postérieure, qu'il faut contrôler.",
+"p": "103"
+},
+{
+"n": "c6-strategie",
+"lv": 2,
+"q": "Quel élément est présenté comme la clé du succès des traitements chirurgico-orthodontiques ?",
+"o": [
+"Le dialogue entre les spécialistes, surtout chirurgien et orthodontiste",
+"La rapidité",
+"La seule céphalométrie",
+"L'absence d'information du patient"
+],
+"a": 0,
+"ex": "Le dialogue assure la concordance des stratégies et rassure le patient.",
+"p": "208"
+},
+{
+"n": "c7-quand",
+"lv": 2,
+"q": "Pourquoi certains posent-ils une contention fixe dès la dépose ?",
+"o": [
+"Pour éviter la récidive histologique, qui débute dès la dépose",
+"Pour raccourcir le collage",
+"Pour favoriser l'égression",
+"Parce que l'occlusion ne bouge plus"
+],
+"a": 0,
+"ex": "Le délai de 3-4 jours choisi par d'autres laisse s'établir une occlusion plus fonctionnelle, avec un risque de récidive partielle.",
+"p": "235"
+}
+]
+}

@@ -1,0 +1,3 @@
+# Les livres ne doivent jamais etre envoyes sur GitHub
+*.pdf
+__pycache__/
